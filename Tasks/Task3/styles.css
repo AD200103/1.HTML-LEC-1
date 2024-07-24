@@ -1,0 +1,113 @@
+
+header{
+    width: 98%;
+    height: 170px;
+    background-color: white;
+    background-position: center;
+    border:6px solid black;
+    margin:0px auto;
+    display: inline-block;
+
+  }
+  .middle-section {
+    font-size: 0;
+  }
+
+.pirmas{
+    background-image: url(download.jpeg);
+   width: 20%;
+   height: 170px;
+   display: inline-block;
+   background-position: center;
+}
+.antras{
+    background-image: url(download2.jpeg);
+   width: 20%;
+   height: 170px;
+   display: inline-block;
+   background-position: center;
+}
+
+.trecias
+{
+    background-image: url(11c5-f146-4246-936c-40f6f9c21d4a.webp);
+   width: 20%;
+   height: 170px;
+   display: inline-block;
+   background-position: center;
+  
+/* 
+   font-size: 100px;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: brown;
+     */
+
+}
+
+.ketvirtas
+{
+    background-image: url(1067586-711928-756x425.jpg);
+   width: 20%;
+   height: 170px;
+   display: inline-block;
+   background-position: center;
+}
+
+.penktas
+{
+    background-image: url(Untitled.jpg);
+   width: 20%;
+   height: 170px;
+   display: inline-block;
+   background-position: right top;
+}
+
+.image {
+  width:100px;
+  height: 170px;
+  object-fit: cover;
+}
+
+
+.box{
+width:100%;
+height: 20px;
+background-color: darkred;
+}
+
+main{
+  width:80%;
+  height:1000px;
+  background-color:darkred;
+  display:inline-block;
+  font-size: 20px;
+  text-align:left;
+  vertical-align: top;
+  
+}
+
+aside{
+    background-color:white;
+    height:1000px;
+    width: 10%;
+    background-image: url(slovak-folk-art-seamless-vertical-pattern-vector-47254053.jpg);
+    background-position: center;
+    display:inline-block;
+}
+
+.mediateka{
+    background-color: darkred;
+    height: 50px;
+    width: 100%;
+    position: relative;
+    text-align: right;
+    font-size: 50px;
+}
+
+body {
+    background-color: darkred;
+ }
+ 
+ 
